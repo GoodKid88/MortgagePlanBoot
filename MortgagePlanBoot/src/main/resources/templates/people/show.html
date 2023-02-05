@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Show</title>
+</head>
+<body>
+<p th:text="${'Prospect' + person.getId() + ':' + person.getName() +' wants to borrow ' + person.getLoan() + '€ for a period of '
+  + person.getYears() + ' years and pay' + person.getPaymentToString() + '€ each month'}">VALUE</p>
+
+
+<form th:method="DELETE" th:action="@{/people/{id}(id=${person.getId()})}">
+    <input type="submit" value="Delete"/>
+</form>
+</body>
+</html>

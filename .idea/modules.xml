@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MortgagePlan.iml" filepath="$PROJECT_DIR$/.idea/MortgagePlan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryBoot/MortgagePlanBoot.iml" filepath="$PROJECT_DIR$/LibraryBoot/MortgagePlanBoot.iml" />
+    </modules>
+  </component>
+</project>
