@@ -10,7 +10,7 @@ Web application that calculates the monthly mortgage payment.
 
 #Guidelines
 1. Clone this repository
-2. Go to main directory and start (local) run.bat 
+2. Go to MortgagePlanBoot\target directory and start (local) run.bat 
 3. Go to http://localhost:8080/people and create customer
 
 or
