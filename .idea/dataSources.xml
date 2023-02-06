@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="prospects@localhost" uuid="c7666e2c-c0af-4c5c-8c63-25d90e3e2912">
+    <data-source source="LOCAL" name="postgres@awseb-e-dkdqfewcrf-stack-awsebrdsdatabase-jbxsvry29rq8.cyse5sccjgua.eu-north-1.rds.amazonaws.com" uuid="f9010544-9a92-4638-8bc8-4ed204bfe7fd">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://awseb-e-dkdqfewcrf-stack-awsebrdsdatabase-jbxsvry29rq8.cyse5sccjgua.eu-north-1.rds.amazonaws.com:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prospects@localhost" uuid="17860161-d8c5-432d-89ab-06971dba9c87">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
