@@ -1,4 +1,4 @@
-package com.example.LibraryBoot.dao;
+package com.example.MortgagePlanBoot.dao;
 
 import org.springframework.stereotype.Component;
 

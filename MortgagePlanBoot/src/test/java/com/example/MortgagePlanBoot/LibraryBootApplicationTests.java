@@ -1,4 +1,4 @@
-package com.example.LibraryBoot;
+package com.example.MortgagePlanBoot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

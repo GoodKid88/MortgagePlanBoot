@@ -1,10 +1,8 @@
-package com.example.LibraryBoot.repositories;
+package com.example.MortgagePlanBoot.repositories;
 
-import com.example.LibraryBoot.models.Person;
+import com.example.MortgagePlanBoot.models.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-
-import java.util.Optional;
 
 
 @Repository

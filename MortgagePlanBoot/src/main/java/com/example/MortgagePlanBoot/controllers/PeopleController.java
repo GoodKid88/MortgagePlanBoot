@@ -1,8 +1,8 @@
-package com.example.LibraryBoot.controllers;
+package com.example.MortgagePlanBoot.controllers;
 
-import com.example.LibraryBoot.java.Calculator;
-import com.example.LibraryBoot.models.Person;
-import com.example.LibraryBoot.services.PeopleService;
+import com.example.MortgagePlanBoot.java.Calculator;
+import com.example.MortgagePlanBoot.models.Person;
+import com.example.MortgagePlanBoot.services.PeopleService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;

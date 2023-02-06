@@ -1,6 +1,6 @@
-package com.example.LibraryBoot.java;
+package com.example.MortgagePlanBoot.java;
 
-import com.example.LibraryBoot.models.Person;
+import com.example.MortgagePlanBoot.models.Person;
 public class Calculator {
     public static double calculateMonthlyPayment(Person customer) {
         double b = customer.getInterest() / 100 / 12;

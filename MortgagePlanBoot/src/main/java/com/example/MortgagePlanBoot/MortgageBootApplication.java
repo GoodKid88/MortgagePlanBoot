@@ -1,13 +1,13 @@
-package com.example.LibraryBoot;
+package com.example.MortgagePlanBoot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LibraryBootApplication {
+public class MortgageBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LibraryBootApplication.class, args);
+		SpringApplication.run(MortgageBootApplication.class, args);
 	}
 
 }

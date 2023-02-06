@@ -1,8 +1,7 @@
-package com.example.LibraryBoot.services;
+package com.example.MortgagePlanBoot.services;
 
-import com.example.LibraryBoot.java.Calculator;
-import com.example.LibraryBoot.models.Person;
-import com.example.LibraryBoot.repositories.PeopleRepository;
+import com.example.MortgagePlanBoot.models.Person;
+import com.example.MortgagePlanBoot.repositories.PeopleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -10,11 +10,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="LibraryBoot" target="18" />
       <module name="MortgagePlanBoot" target="18" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="LibraryBoot" options="-parameters" />
       <module name="MortgagePlanBoot" options="-parameters" />
     </option>
   </component>
